@@ -1,0 +1,6 @@
+Length : 20.0 cm
+Width : 20.0 cm
+Height : 20.0 cm
+Weight : 20.0 kg
+Price : RM9
+
